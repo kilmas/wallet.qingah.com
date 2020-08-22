@@ -707,7 +707,7 @@ figure figcaption {
 .hero-section .iphone-wrap .phone-2,
 .hero-section .iphone-wrap .phone-1 {
   position: absolute;
-  top: -50%;
+  top: -30%;
   overflow: hidden;
   left: 0;
   box-shadow: 0 15px 50px 0 rgba(0, 0, 0, 0.3);
@@ -720,7 +720,7 @@ figure figcaption {
 }
 
 .hero-section .iphone-wrap .phone-2 {
-  margin-top: 50px;
+  margin-top: 75px;
   margin-left: 100px;
   width: 250px;
 }
