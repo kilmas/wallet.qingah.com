@@ -42,7 +42,7 @@ h6,
 }
 
 .text-primary {
-  color: #2d71a1 !important;
+  color: #1391a5 !important;
 }
 
 .border-top {
@@ -76,7 +76,7 @@ figure figcaption {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #2d71a1;
+  background: #1391a5;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -113,11 +113,11 @@ figure figcaption {
 
 .btn.btn-outline-white:hover {
   background: #fff;
-  color: #2d71a1;
+  color: #1391a5;
 }
 
 .btn.btn-primary {
-  background: #2d71a1;
+  background: #1391a5;
   background: linear-gradient(-45deg, #1391a5, #274685);
   color: #fff;
   box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
@@ -249,7 +249,7 @@ figure figcaption {
 }
 
 .pricing h3 {
-  color: #2d71a1;
+  color: #1391a5;
 }
 
 .pricing .price-cta {
@@ -291,7 +291,7 @@ figure figcaption {
 }
 
 .pricing .btn-white:hover {
-  color: #2d71a1;
+  color: #1391a5;
 }
 
 .pricing.popular {
@@ -313,7 +313,7 @@ figure figcaption {
 }
 
 .pricing.popular .btn-white {
-  border: 2px solid #2d71a1;
+  border: 2px solid #1391a5;
 }
 
 /* CTA Section */
@@ -385,11 +385,11 @@ figure figcaption {
 
 .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a:hover,
 .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a.active {
-  color: #2d71a1 !important;
+  color: #1391a5 !important;
 }
 
 .sticky-wrapper.is-sticky .site-navbar .site-menu > li.active a {
-  color: #2d71a1 !important;
+  color: #1391a5 !important;
 }
 
 .sticky-wrapper .shrink {
@@ -409,7 +409,7 @@ figure figcaption {
 .form-control:focus {
   outline: none;
   box-shadow: none;
-  border: 1px solid #2d71a1;
+  border: 1px solid #1391a5;
 }
 
 .php-email-form .validate {
@@ -506,11 +506,11 @@ figure figcaption {
 
 .post-entry .post-text h3 a:hover {
   text-decoration: none;
-  color: #2d71a1;
+  color: #1391a5;
 }
 
 .post-entry .post-text .readmore {
-  color: #2d71a1;
+  color: #1391a5;
 }
 
 .sidebar-box {
