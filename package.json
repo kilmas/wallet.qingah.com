@@ -1,0 +1,23 @@
+{
+  "name": "qingah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "lite-server"
+  },
+  "author": "kilmas",
+  "license": "ISC",
+  "devDependencies": {
+    "http-proxy-middleware": "^0.17.4",
+    "lite-server": "^2.3.0",
+    "mime": "1.3.4",
+    "mz": "2.4.0",
+    "nunjucks": "2.4.2"
+  },
+  "dependencies": {}
+}
